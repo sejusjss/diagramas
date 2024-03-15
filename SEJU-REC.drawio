@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T12:33:46.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UwC-YHzYgoCbrzZrAeyL" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-15T12:48:28.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RfVsKgAIeuggI-pJ81WU" version="24.0.6" type="github" pages="2">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
-    <mxGraphModel dx="1687" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1892,6 +1892,15 @@
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-37" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="A1uMZQDlPSoPu_LZr6pL-18" vertex="1">
           <mxGeometry x="777" y="34" width="119" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="-kwdga2Q-ClfssJn-Hvh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.386;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="A1uMZQDlPSoPu_LZr6pL-18" source="A1uMZQDlPSoPu_LZr6pL-30" target="A1uMZQDlPSoPu_LZr6pL-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="247" />
+              <mxPoint x="30" y="296" />
+              <mxPoint x="86" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-38" value="3ª INSTANCIA" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" parent="A1uMZQDlPSoPu_LZr6pL-1" vertex="1">
           <mxGeometry y="530" width="1170" height="250" as="geometry" />
         </mxCell>
@@ -1925,9 +1934,6 @@
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-48" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="A1uMZQDlPSoPu_LZr6pL-38" vertex="1">
           <mxGeometry x="40" y="149" width="119" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="A1uMZQDlPSoPu_LZr6pL-49" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="A1uMZQDlPSoPu_LZr6pL-38" vertex="1">
-          <mxGeometry x="203" y="46" width="119" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-50" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="A1uMZQDlPSoPu_LZr6pL-38" vertex="1">
           <mxGeometry x="383" y="149" width="119" height="59" as="geometry" />
         </mxCell>
@@ -1946,14 +1952,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-kwdga2Q-ClfssJn-Hvh-1" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A1uMZQDlPSoPu_LZr6pL-38">
+          <mxGeometry x="200" y="45" width="119" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="A1uMZQDlPSoPu_LZr6pL-1" source="A1uMZQDlPSoPu_LZr6pL-23" target="A1uMZQDlPSoPu_LZr6pL-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="A1uMZQDlPSoPu_LZr6pL-1" source="A1uMZQDlPSoPu_LZr6pL-32" target="A1uMZQDlPSoPu_LZr6pL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1uMZQDlPSoPu_LZr6pL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;" parent="A1uMZQDlPSoPu_LZr6pL-1" source="A1uMZQDlPSoPu_LZr6pL-29" target="A1uMZQDlPSoPu_LZr6pL-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A1uMZQDlPSoPu_LZr6pL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;" parent="A1uMZQDlPSoPu_LZr6pL-1" source="A1uMZQDlPSoPu_LZr6pL-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.5" y="575.9999999999991" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="A1uMZQDlPSoPu_LZr6pL-1" source="A1uMZQDlPSoPu_LZr6pL-34" target="A1uMZQDlPSoPu_LZr6pL-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1973,14 +1984,22 @@
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-61" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Los REC que provienen de un REP pueden tener EJE o DAP?&lt;br&gt;¿Todas las EJE pueden tener un REP?&lt;br&gt;¿Los IMC pueden tener DAP?&lt;br&gt;¿La EJE se puede abrir en un IMC o REP?&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="3720" width="837" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="A1uMZQDlPSoPu_LZr6pL-62" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;font color=&quot;#4d9900&quot;&gt;De un REP no puede haber REC, sólo REP. No habrá ni EJE ni DAP&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#4d9900&quot;&gt;SI&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#336600&quot;&gt;NO&lt;br&gt;NO&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="3720" width="837" height="140" as="geometry" />
+        <mxCell id="-kwdga2Q-ClfssJn-Hvh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1uMZQDlPSoPu_LZr6pL-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2163.5" y="4247.058823529412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A1uMZQDlPSoPu_LZr6pL-62" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;font color=&quot;#4d9900&quot;&gt;De un REP no puede haber REC, sólo REP. No habrá ni EJE ni DAP&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#4d9900&quot;&gt;SI&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#336600&quot;&gt;NO&lt;br&gt;NO&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;font color=&quot;#336600&quot;&gt;La DAP, solo se da sobre el procedimiento finalizado sobre sentencia (CON, REC)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;font color=&quot;#336600&quot;&gt;EL REP sobre un REP, actúa como un recurso contra sentencia, al finalizar el REP, si se marca recurrir, se abre otro REP.&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;font color=&quot;#336600&quot;&gt;En los IMC, se pueden dar REP, y no REC.&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="3720" width="847" height="430" as="geometry" />
         </mxCell>
         <mxCell id="A1uMZQDlPSoPu_LZr6pL-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=42.45499181669395;endSize=37.43829787234043;width=49.230769230769226;shadow=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1884.23" y="2570" as="sourcePoint" />
             <mxPoint x="1884.23" y="2863.3333333333335" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-kwdga2Q-ClfssJn-Hvh-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CODIFICACIÓN EXPEDIENTES&lt;/h1&gt;&lt;div&gt;CON/010/02/2024/000001/00&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- EJE/010/02/2024/000001/00/001&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- REC/010/02/2024/000001/00/001&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- REP&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/010/02/2024/000001/00/000/01&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- IMC&lt;span style=&quot;background-color: initial;&quot;&gt;/010/02/2024/000001/00/000/01&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- DAP&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="3870" width="670" height="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
